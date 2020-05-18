@@ -1,0 +1,364 @@
+Provinsi;Pulau;Tahun;Produktivitas;Produksi;luas_lahan
+Aceh;Pulau Sumatera;2003;42.09;1547499;348232
+Aceh;Pulau Sumatera;2004;41.84;1552078;346305
+Aceh;Pulau Sumatera;2005;41.78;1411650;356649
+Aceh;Pulau Sumatera;2006;42.11;1350748;315277
+Aceh;Pulau Sumatera;2007;42.51;1533369;312803
+Aceh;Pulau Sumatera;2008;42.61;1402287;323010
+Aceh;Pulau Sumatera;2009;43.32;1556858;359751
+Aceh;Pulau Sumatera;2010;44.92;1582393;313649
+Aceh;Pulau Sumatera;2011;46.57;1772962;307556
+Aceh;Pulau Sumatera;2012;46.12;1788738;308973
+Aceh;Pulau Sumatera;2013;46.68;1956940;300808
+Sumatra Utara;Pulau Sumatera;2003;41.24;3403075;538180
+Sumatra Utara;Pulau Sumatera;2004;41.39;3418782;502839
+Sumatra Utara;Pulau Sumatera;2005;41.94;3447394;462767
+Sumatra Utara;Pulau Sumatera;2006;42.66;3007636;460486
+Sumatra Utara;Pulau Sumatera;2007;43.53;3265834;453372
+Sumatra Utara;Pulau Sumatera;2008;44.63;3340794;478521
+Sumatra Utara;Pulau Sumatera;2009;45.91;3527899;464256
+Sumatra Utara;Pulau Sumatera;2010;47.47;3582302;468724
+Sumatra Utara;Pulau Sumatera;2011;47.62;3607403;467138
+Sumatra Utara;Pulau Sumatera;2012;48.56;3715514;448722
+Sumatra Utara;Pulau Sumatera;2013;50.17;3727249;438346
+Sumatra Barat;Pulau Sumatera;2003;44.28;1823739;225369
+Sumatra Barat;Pulau Sumatera;2004;44.37;1875188;231939
+Sumatra Barat;Pulau Sumatera;2005;44.67;1907390;228176
+Sumatra Barat;Pulau Sumatera;2006;45.22;1889489;229469
+Sumatra Barat;Pulau Sumatera;2007;45.75;1938120;227355
+Sumatra Barat;Pulau Sumatera;2008;46.59;1965634;225623
+Sumatra Barat;Pulau Sumatera;2009;47.91;2105790;228176
+Sumatra Barat;Pulau Sumatera;2010;48.02;2211248;229693
+Sumatra Barat;Pulau Sumatera;2011;49.37;2279602;231463
+Sumatra Barat;Pulau Sumatera;2012;49.71;2368390;230775
+Sumatra Barat;Pulau Sumatera;2013;49.82;2430384;224182
+Riau;Pulau Sumatera;2003;31.17;414237;128225
+Riau;Pulau Sumatera;2004;31.27;454186;125966
+Riau;Pulau Sumatera;2005;31.55;424095;118955
+Riau;Pulau Sumatera;2006;31.53;42938;124985
+Riau;Pulau Sumatera;2007;33.30;490087;128242
+Riau;Pulau Sumatera;2008;33.44;494260;122255
+Riau;Pulau Sumatera;2009;35.57;531429;122738
+Riau;Pulau Sumatera;2010;36.83;574864;115961
+Riau;Pulau Sumatera;2011;36.89;535788;115897
+Riau;Pulau Sumatera;2012;35.56;512152;109585
+Riau;Pulau Sumatera;2013;36.63;434144;93338
+Jambi;Pulau Sumatera;2003;36.27;578346;120552
+Jambi;Pulau Sumatera;2004;36.95;579404;122126
+Jambi;Pulau Sumatera;2005;37.41;579635;117482
+Jambi;Pulau Sumatera;2006;38.73;544597;119242
+Jambi;Pulau Sumatera;2007;39.14;58663;117543
+Jambi;Pulau Sumatera;2008;40.67;581704;116212
+Jambi;Pulau Sumatera;2009;41.40;644947;117336
+Jambi;Pulau Sumatera;2010;40.86;628828;112434
+Jambi;Pulau Sumatera;2011;41.07;646641;113757
+Jambi;Pulau Sumatera;2012;41.85;625164;113379
+Jambi;Pulau Sumatera;2013;43.36;664535;113546
+Sumatera Selatan;Pulau Sumatera;2003;34.69;1977345;512510
+Sumatera Selatan;Pulau Sumatera;2004;36.17;2260794;474429
+Sumatera Selatan;Pulau Sumatera;2005;37.01;2320110;484207
+Sumatera Selatan;Pulau Sumatera;2006;37.97;2456251;523922
+Sumatera Selatan;Pulau Sumatera;2007;39.81;2753044;530204
+Sumatera Selatan;Pulau Sumatera;2008;41.34;2971286;577821
+Sumatera Selatan;Pulau Sumatera;2009;41.87;3125236;611072
+Sumatera Selatan;Pulau Sumatera;2010;42.53;3272451;611386
+Sumatera Selatan;Pulau Sumatera;2011;43.13;3384670;629355
+Sumatera Selatan;Pulau Sumatera;2012;42.81;3295247;610314
+Sumatera Selatan;Pulau Sumatera;2013;45.96;3676723;612424
+Bengkulu;Pulau Sumatera;2003;37.39;413375;88432
+Bengkulu;Pulau Sumatera;2004;37.39;414741;85641
+Bengkulu;Pulau Sumatera;2005;37.77;441276;84164
+Bengkulu;Pulau Sumatera;2006;37.47;378377;83885
+Bengkulu;Pulau Sumatera;2007;37.99;470469;93779
+Bengkulu;Pulau Sumatera;2008;38.03;484900;89244
+Bengkulu;Pulau Sumatera;2009;38.37;510160;89614
+Bengkulu;Pulau Sumatera;2010;38.68;516869;92976
+Bengkulu;Pulau Sumatera;2011;39.28;502552;90217
+Bengkulu;Pulau Sumatera;2012;40.29;581910;88877
+Bengkulu;Pulau Sumatera;2013;42.17;622832;93382
+Lampung;Pulau Sumatera;2003;41.60;1966293;303380
+Lampung;Pulau Sumatera;2004;42.22;2091996;316017
+Lampung;Pulau Sumatera;2005;42.78;2124144;313621
+Lampung;Pulau Sumatera;2006;43.11;2129914;317413
+Lampung;Pulau Sumatera;2007;43.97;2308404;342507
+Lampung;Pulau Sumatera;2008;46.22;2341075;348732
+Lampung;Pulau Sumatera;2009;46.88;2673844;349144
+Lampung;Pulau Sumatera;2010;47.54;2807676;345437
+Lampung;Pulau Sumatera;2011;48.45;2940795;350949
+Lampung;Pulau Sumatera;2012;48.32;3101455;364111
+Lampung;Pulau Sumatera;2013;50.26;3207002;360237
+Kep. Bangka Belitung;Pulau Sumatera;2003;23.25;12173;3186
+Kep. Bangka Belitung;Pulau Sumatera;2004;25.35;18763;3773
+Kep. Bangka Belitung;Pulau Sumatera;2005;28.44;19027;4111
+Kep. Bangka Belitung;Pulau Sumatera;2006;28.75;16506;4048
+Kep. Bangka Belitung;Pulau Sumatera;2007;27.07;2439;4176
+Kep. Bangka Belitung;Pulau Sumatera;2008;24.06;15079;3506
+Kep. Bangka Belitung;Pulau Sumatera;2009;24.64;19864;5017
+Kep. Bangka Belitung;Pulau Sumatera;2010;27.21;22259;4056
+Kep. Bangka Belitung;Pulau Sumatera;2011;28.71;15211;5932
+Kep. Bangka Belitung;Pulau Sumatera;2012;28.01;22395;6133
+Kep. Bangka Belitung;Pulau Sumatera;2013;27.83;28480;5358
+Kep. Riau;Pulau Sumatera;2003;0;0;0
+Kep. Riau;Pulau Sumatera;2004;0;0;0
+Kep. Riau;Pulau Sumatera;2005;29.16;312;76
+Kep. Riau;Pulau Sumatera;2006;28.62;332;82
+Kep. Riau;Pulau Sumatera;2007;29.32;343;124
+Kep. Riau;Pulau Sumatera;2008;30.15;404;133
+Kep. Riau;Pulau Sumatera;2009;29.86;430;238
+Kep. Riau;Pulau Sumatera;2010;31.46;1246;442
+Kep. Riau;Pulau Sumatera;2011;31.60;1223;393
+Kep. Riau;Pulau Sumatera;2012;34.63;1323;559
+Kep. Riau;Pulau Sumatera;2013;36.15;1370;487
+DKI Jakarta;Pulau Jawa;2003;43.84;7558;2738
+DKI Jakarta;Pulau Jawa;2004;45.78;13465;2563
+DKI Jakarta;Pulau Jawa;2005;49.98;13335;1866
+DKI Jakarta;Pulau Jawa;2006;46.84;6197;1466
+DKI Jakarta;Pulau Jawa;2007;51.83;8002;1200
+DKI Jakarta;Pulau Jawa;2008;50.93;8352;1200
+DKI Jakarta;Pulau Jawa;2009;55.79;11013;1215
+DKI Jakarta;Pulau Jawa;2010;55.40;11164;1312
+DKI Jakarta;Pulau Jawa;2011;55.23;9516;1098
+DKI Jakarta;Pulau Jawa;2012;58.22;11044;1001
+DKI Jakarta;Pulau Jawa;2013;58.88;10268;895
+Jawa Barat;Pulau Jawa;2003;52.73;8776889;934140
+Jawa Barat;Pulau Jawa;2004;51.07;9602302;932337
+Jawa Barat;Pulau Jawa;2005;51.65;9787217;925900
+Jawa Barat;Pulau Jawa;2006;52.38;9418572;926782
+Jawa Barat;Pulau Jawa;2007;54.20;9914019;934845
+Jawa Barat;Pulau Jawa;2008;56.06;10111069;945544
+Jawa Barat;Pulau Jawa;2009;58.06;11322681;937373
+Jawa Barat;Pulau Jawa;2010;57.60;11737070;930268
+Jawa Barat;Pulau Jawa;2011;59.22;11633891;930507
+Jawa Barat;Pulau Jawa;2012;58.74;11271861;923575
+Jawa Barat;Pulau Jawa;2013;59.53;12083162;925042
+Jawa Tengah;Pulau Jawa;2003;52.90;8123839;995469
+Jawa Tengah;Pulau Jawa;2004;52.16;8512555;996197
+Jawa Tengah;Pulau Jawa;2005;52.29;8424096;964102
+Jawa Tengah;Pulau Jawa;2006;52.20;8729291;963401
+Jawa Tengah;Pulau Jawa;2007;53.38;8616855;962942
+Jawa Tengah;Pulau Jawa;2008;55.06;9136405;963984
+Jawa Tengah;Pulau Jawa;2009;55.65;9600415;960768
+Jawa Tengah;Pulau Jawa;2010;56.13;10110830;962471
+Jawa Tengah;Pulau Jawa;2011;54.47;9391959;960970
+Jawa Tengah;Pulau Jawa;2012;57.70;10232934;962289
+Jawa Tengah;Pulau Jawa;2013;56.06;10344816;952525
+DI Yogyakarta;Pulau Jawa;2003;49.91;652280;57612
+DI Yogyakarta;Pulau Jawa;2004;53.05;692998;56982
+DI Yogyakarta;Pulau Jawa;2005;51.21;670703;57188
+DI Yogyakarta;Pulau Jawa;2006;53.50;708163;56218
+DI Yogyakarta;Pulau Jawa;2007;53.18;709294;55540
+DI Yogyakarta;Pulau Jawa;2008;56.95;798232;55332
+DI Yogyakarta;Pulau Jawa;2009;57.62;837930;55325
+DI Yogyakarta;Pulau Jawa;2010;56.02;823887;55523
+DI Yogyakarta;Pulau Jawa;2011;55.89;842934;55291
+DI Yogyakarta;Pulau Jawa;2012;61.88;946224;55023
+DI Yogyakarta;Pulau Jawa;2013;57.88;921824;55336
+Jawa Timur;Pulau Jawa;2003;52.58;8914995;1115239
+Jawa Timur;Pulau Jawa;2004;49.70;9002025;1108361
+Jawa Timur;Pulau Jawa;2005;53.18;9007265;1100574
+Jawa Timur;Pulau Jawa;2006;53.38;9346947;1096479
+Jawa Timur;Pulau Jawa;2007;54.16;9402029;1096605
+Jawa Timur;Pulau Jawa;2008;59.02;10474773;1108578
+Jawa Timur;Pulau Jawa;2009;59.11;11259085;1100517
+Jawa Timur;Pulau Jawa;2010;59.29;11643773;1107276
+Jawa Timur;Pulau Jawa;2011;54.89;10576543;1106449
+Jawa Timur;Pulau Jawa;2012;61.74;12198707;1105550
+Jawa Timur;Pulau Jawa;2013;59.15;12049342;1102863
+Banten;Pulau Jawa;2003;48.61;1691923;207530
+Banten;Pulau Jawa;2004;52.04;1812495;196589
+Banten;Pulau Jawa;2005;49.68;1861776;194504
+Banten;Pulau Jawa;2006;50.27;1751468;196538
+Banten;Pulau Jawa;2007;50.90;1816140;196370
+Banten;Pulau Jawa;2008;50.14;1818166;195583
+Banten;Pulau Jawa;2009;50.50;1849007;195809
+Banten;Pulau Jawa;2010;50.39;2048047;196744
+Banten;Pulau Jawa;2011;49.11;1949714;197165
+Banten;Pulau Jawa;2012;51.45;1865893;195951
+Banten;Pulau Jawa;2013;52.92;2083608;194716
+Bali;Pulau Nusa Tenggara;2003;54.60;793260;81870
+Bali;Pulau Nusa Tenggara;2004;54.69;788360;81557
+Bali;Pulau Nusa Tenggara;2005;55.28;786961;80211
+Bali;Pulau Nusa Tenggara;2006;55.85;840891;79252
+Bali;Pulau Nusa Tenggara;2007;57.90;839775;80251
+Bali;Pulau Nusa Tenggara;2008;58.37;840465;80873
+Bali;Pulau Nusa Tenggara;2009;58.47;878764;79185
+Bali;Pulau Nusa Tenggara;2010;57.11;869161;81425
+Bali;Pulau Nusa Tenggara;2011;56.25;858316;80164
+Bali;Pulau Nusa Tenggara;2012;58.09;865553;79399
+Bali;Pulau Nusa Tenggara;2013;58.66;882092;78425
+Nusa Tenggara Barat;Pulau Nusa Tenggara;2003;44.53;1422440;226627
+Nusa Tenggara Barat;Pulau Nusa Tenggara;2004;44.99;1466757;222968
+Nusa Tenggara Barat;Pulau Nusa Tenggara;2005;45.54;1367869;225708
+Nusa Tenggara Barat;Pulau Nusa Tenggara;2006;45.48;1552627;232851
+Nusa Tenggara Barat;Pulau Nusa Tenggara;2007;45.99;1526347;231129
+Nusa Tenggara Barat;Pulau Nusa Tenggara;2008;48.67;1750677;230986
+Nusa Tenggara Barat;Pulau Nusa Tenggara;2009;49.98;1870775;236420
+Nusa Tenggara Barat;Pulau Nusa Tenggara;2010;47.41;1774499;238619
+Nusa Tenggara Barat;Pulau Nusa Tenggara;2011;49.45;2067137;240180
+Nusa Tenggara Barat;Pulau Nusa Tenggara;2012;49.69;2114231;246569
+Nusa Tenggara Barat;Pulau Nusa Tenggara;2013;50.08;2193698;253021
+Nusa Tenggara Timur;Pulau Nusa Tenggara;2003;28.88;509419;103341
+Nusa Tenggara Timur;Pulau Nusa Tenggara;2004;30.06;552205;109070
+Nusa Tenggara Timur;Pulau Nusa Tenggara;2005;28.36;461007;100194
+Nusa Tenggara Timur;Pulau Nusa Tenggara;2006;29.55;511911;112715
+Nusa Tenggara Timur;Pulau Nusa Tenggara;2007;30.32;505628;122649
+Nusa Tenggara Timur;Pulau Nusa Tenggara;2008;30.75;577895;124416
+Nusa Tenggara Timur;Pulau Nusa Tenggara;2009;31.27;607359;139943
+Nusa Tenggara Timur;Pulau Nusa Tenggara;2010;31.80;555493;142479
+Nusa Tenggara Timur;Pulau Nusa Tenggara;2011;30.30;591371;144574
+Nusa Tenggara Timur;Pulau Nusa Tenggara;2012;34.91;698566;148810
+Nusa Tenggara Timur;Pulau Nusa Tenggara;2013;32.80;729666;169063
+Kalimantan Barat;Pulau Kalimantan;2003;29.06;1027122;253316
+Kalimantan Barat;Pulau Kalimantan;2004;29.04;1060652;283021
+Kalimantan Barat;Pulau Kalimantan;2005;29.06;1023684;292220
+Kalimantan Barat;Pulau Kalimantan;2006;29.30;1107661;321838
+Kalimantan Barat;Pulau Kalimantan;2007;30.64;1225259;290392
+Kalimantan Barat;Pulau Kalimantan;2008;31.20;1321443;292687
+Kalimantan Barat;Pulau Kalimantan;2009;31.05;1300798;300906
+Kalimantan Barat;Pulau Kalimantan;2010;31.37;1343888;307016
+Kalimantan Barat;Pulau Kalimantan;2011;30.90;1372988;318581
+Kalimantan Barat;Pulau Kalimantan;2012;30.39;1300100;322541
+Kalimantan Barat;Pulau Kalimantan;2013;31.01;1441876;330883
+kalimantan Tengah;Pulau Kalimantan;2003;25.10;490080;156645
+kalimantan Tengah;Pulau Kalimantan;2004;25.78;590434;167776
+kalimantan Tengah;Pulau Kalimantan;2005;24.18;492250;159516
+kalimantan Tengah;Pulau Kalimantan;2006;24.26;491712;166703
+kalimantan Tengah;Pulau Kalimantan;2007;24.49;562473;159059
+kalimantan Tengah;Pulau Kalimantan;2008;25.41;522732;157406
+kalimantan Tengah;Pulau Kalimantan;2009;26.98;578761;171428
+kalimantan Tengah;Pulau Kalimantan;2010;26.27;650416;175633
+kalimantan Tengah;Pulau Kalimantan;2011;28.49;610236;202237
+kalimantan Tengah;Pulau Kalimantan;2012;30.01;755507;226903
+kalimantan Tengah;Pulau Kalimantan;2013;32.84;812652;210807
+Kaliantan Selatan;Pulau Kalimantan;2003;32.16;1410141;420086
+Kaliantan Selatan;Pulau Kalimantan;2004;34.26;1519432;423884
+Kaliantan Selatan;Pulau Kalimantan;2005;34.79;1598835;435940
+Kaliantan Selatan;Pulau Kalimantan;2006;35.38;1636840;440720
+Kaliantan Selatan;Pulau Kalimantan;2007;38.63;1953868;471042
+Kaliantan Selatan;Pulau Kalimantan;2008;38.52;1954284;477336
+Kaliantan Selatan;Pulau Kalimantan;2009;39.93;1956993;464581
+Kaliantan Selatan;Pulau Kalimantan;2010;39.10;1842089;436318
+Kaliantan Selatan;Pulau Kalimantan;2011;41.67;2038309;457155
+Kaliantan Selatan;Pulau Kalimantan;2012;42.05;2086221;451869
+Kaliantan Selatan;Pulau Kalimantan;2013;42.34;2031029;440429
+Kalimantan Timur;Pulau Kalimantan;2003;31.68;430286;92982
+Kalimantan Timur;Pulau Kalimantan;2004;34.40;486167;89769
+Kalimantan Timur;Pulau Kalimantan;2005;35.43;499558;88846
+Kalimantan Timur;Pulau Kalimantan;2006;35.95;541171;90786
+Kalimantan Timur;Pulau Kalimantan;2007;36.50;567501;92934
+Kalimantan Timur;Pulau Kalimantan;2008;37.25;586031;84235
+Kalimantan Timur;Pulau Kalimantan;2009;38.01;555560;88308
+Kalimantan Timur;Pulau Kalimantan;2010;39.25;588879;82796
+Kalimantan Timur;Pulau Kalimantan;2011;39.41;552616;90518
+Kalimantan Timur;Pulau Kalimantan;2012;39.42;561959;90887
+Kalimantan Timur;Pulau Kalimantan;2013;42.70;439439;63306
+Sulawesi Utara;Pulau Sulawesi;2003;43.84;369930;64605
+Sulawesi Utara;Pulau Sulawesi;2004;44.07;407358;59393
+Sulawesi Utara;Pulau Sulawesi;2005;45.57;432624;57969
+Sulawesi Utara;Pulau Sulawesi;2006;48.03;454902;60262
+Sulawesi Utara;Pulau Sulawesi;2007;47.97;49495;61098
+Sulawesi Utara;Pulau Sulawesi;2008;47.31;520193;61133
+Sulawesi Utara;Pulau Sulawesi;2009;47.85;549087;61134
+Sulawesi Utara;Pulau Sulawesi;2010;48.76;584030;52789
+Sulawesi Utara;Pulau Sulawesi;2011;48.83;596223;56181
+Sulawesi Utara;Pulau Sulawesi;2012;48.46;615062;56173
+Sulawesi Utara;Pulau Sulawesi;2013;50.10;638373;56157
+Sulawesi Tengah;Pulau Sulawesi;2003;38.85;738607;121670
+Sulawesi Tengah;Pulau Sulawesi;2004;39.94;725725;120049
+Sulawesi Tengah;Pulau Sulawesi;2005;40.85;716906;113715
+Sulawesi Tengah;Pulau Sulawesi;2006;41.31;739777;119463
+Sulawesi Tengah;Pulau Sulawesi;2007;41.96;857508;128250
+Sulawesi Tengah;Pulau Sulawesi;2008;46.51;985418;129016
+Sulawesi Tengah;Pulau Sulawesi;2009;45.14;953396;130879
+Sulawesi Tengah;Pulau Sulawesi;2010;45.88;957108;136241
+Sulawesi Tengah;Pulau Sulawesi;2011;46.96;1041789;137786
+Sulawesi Tengah;Pulau Sulawesi;2012;44.71;1024316;143475
+Sulawesi Tengah;Pulau Sulawesi;2013;45.98;1031364;146721
+Sulawesi Selatan;Pulau Sulawesi;2003;47.24;4003079;619084
+Sulawesi Selatan;Pulau Sulawesi;2004;45.98;3552835;626634
+Sulawesi Selatan;Pulau Sulawesi;2005;46.40;3390397;558935
+Sulawesi Selatan;Pulau Sulawesi;2006;46.75;3365509;552940
+Sulawesi Selatan;Pulau Sulawesi;2007;47.16;3635139;560989
+Sulawesi Selatan;Pulau Sulawesi;2008;48.83;4083356;567520
+Sulawesi Selatan;Pulau Sulawesi;2009;50.16;4324178;565601
+Sulawesi Selatan;Pulau Sulawesi;2010;49.44;4382443;572089
+Sulawesi Selatan;Pulau Sulawesi;2011;50.74;4511705;576559
+Sulawesi Selatan;Pulau Sulawesi;2012;50.98;5003011;592376
+Sulawesi Selatan;Pulau Sulawesi;2013;51.22;5035830;602728
+Sulawesi Tenggara;Pulau Sulawesi;2003;36.64;334307;66939
+Sulawesi Tenggara;Pulau Sulawesi;2004;37.97;322362;69432
+Sulawesi Tenggara;Pulau Sulawesi;2005;37.11;339847;73646
+Sulawesi Tenggara;Pulau Sulawesi;2006;37.24;349429;62286
+Sulawesi Tenggara;Pulau Sulawesi;2007;38.31;423316;65338
+Sulawesi Tenggara;Pulau Sulawesi;2008;39.53;405256;82806
+Sulawesi Tenggara;Pulau Sulawesi;2009;41.51;407367;89601
+Sulawesi Tenggara;Pulau Sulawesi;2010;42.19;454644;83356
+Sulawesi Tenggara;Pulau Sulawesi;2011;41.34;491567;85585
+Sulawesi Tenggara;Pulau Sulawesi;2012;41.47;516291;92280
+Sulawesi Tenggara;Pulau Sulawesi;2013;42.23;561361;95378
+Gorontalo;Pulau Sulawesi;2003;45.09;156158;27598
+Gorontalo;Pulau Sulawesi;2004;43.21;163094;25955
+Gorontalo;Pulau Sulawesi;2005;42.74;167152;25561
+Gorontalo;Pulau Sulawesi;2006;43.82;192583;25668
+Gorontalo;Pulau Sulawesi;2007;44.99;200421;27794
+Gorontalo;Pulau Sulawesi;2008;50.67;237873;31327
+Gorontalo;Pulau Sulawesi;2009;53.48;256934;29062
+Gorontalo;Pulau Sulawesi;2010;55.20;253563;29566
+Gorontalo;Pulau Sulawesi;2011;51.87;273921;28707
+Gorontalo;Pulau Sulawesi;2012;48.01;245786;30728
+Gorontalo;Pulau Sulawesi;2013;52.01;295913;32239
+Sulawesi Barat;Pulau Sulawesi;2003;0;0;0
+Sulawesi Barat;Pulau Sulawesi;2004;0;0;0
+Sulawesi Barat;Pulau Sulawesi;2005;42.48;253886;60531
+Sulawesi Barat;Pulau Sulawesi;2006;46.79;301616;48884
+Sulawesi Barat;Pulau Sulawesi;2007;46.93;312676;50800
+Sulawesi Barat;Pulau Sulawesi;2008;47.36;343221;53220
+Sulawesi Barat;Pulau Sulawesi;2009;47.82;310706;56056
+Sulawesi Barat;Pulau Sulawesi;2010;47.80;362900;59476
+Sulawesi Barat;Pulau Sulawesi;2011;47.90;365683;55016
+Sulawesi Barat;Pulau Sulawesi;2012;49.21;412338;59020
+Sulawesi Barat;Pulau Sulawesi;2013;48.80;445030;61070
+Maluku;Pulau Papua;2003;33.05;31189;8401
+Maluku;Pulau Papua;2004;32.39;36148;8542
+Maluku;Pulau Papua;2005;32.84;37239;8542
+Maluku;Pulau Papua;2006;35.94;49833;8657
+Maluku;Pulau Papua;2007;37.21;57132;10035
+Maluku;Pulau Papua;2008;39.61;75826;11461
+Maluku;Pulau Papua;2009;42.29;89875;11281
+Maluku;Pulau Papua;2010;41.08;83109;11451
+Maluku;Pulau Papua;2011;41.21;87468;14085
+Maluku;Pulau Papua;2012;41.13;84271;15972
+Maluku;Pulau Papua;2013;41.74;101835;15042
+Maluku Utara;Pulau Papua;2003;36.65;60131;11867
+Maluku Utara;Pulau Papua;2004;34.04;51800;11867
+Maluku Utara;Pulau Papua;2005;34.18;57945;11867
+Maluku Utara;Pulau Papua;2006;34.12;59215;11867
+Maluku Utara;Pulau Papua;2007;33.48;48531;11782
+Maluku Utara;Pulau Papua;2008;34.79;51599;13630
+Maluku Utara;Pulau Papua;2009;33.73;46253;8890
+Maluku Utara;Pulau Papua;2010;34.47;55401;9478
+Maluku Utara;Pulau Papua;2011;36.60;61430;9093
+Maluku Utara;Pulau Papua;2012;36.91;65686;9359
+Maluku Utara;Pulau Papua;2013;37.57;72445;10510
+Papua Barat;Pulau Papua;2003;0;0;4719
+Papua Barat;Pulau Papua;2004;0;0;6290
+Papua Barat;Pulau Papua;2005;32.90;24702;7051
+Papua Barat;Pulau Papua;2006;32.21;27073;7735
+Papua Barat;Pulau Papua;2007;33.75;28204;8395
+Papua Barat;Pulau Papua;2008;34.48;39537;9116
+Papua Barat;Pulau Papua;2009;35.27;36985;9249
+Papua Barat;Pulau Papua;2010;36.19;34254;7711
+Papua Barat;Pulau Papua;2011;35.38;29304;7648
+Papua Barat;Pulau Papua;2012;39.03;30245;8330
+Papua Barat;Pulau Papua;2013;39.76;29912;8727
+Papua;Pulau Papua;2003;30.42;57889;36021
+Papua;Pulau Papua;2004;31.76;63367;36021
+Papua;Pulau Papua;2005;31.58;60810;28970
+Papua;Pulau Papua;2006;34.33;68319;28970
+Papua;Pulau Papua;2007;35.58;81678;26397
+Papua;Pulau Papua;2008;35.03;85699;29018
+Papua;Pulau Papua;2009;37.41;98511;27454
+Papua;Pulau Papua;2010;38.45;102610;27757
+Papua;Pulau Papua;2011;39.45;115437;27756
+Papua;Pulau Papua;2012;37.16;138032;27756
+Papua;Pulau Papua;2013;41.30;169791;42350
